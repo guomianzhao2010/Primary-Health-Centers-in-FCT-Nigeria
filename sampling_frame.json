@@ -1,0 +1,2674 @@
+ [{
+   "Council": "Abaji",
+   "WARD": "Agyana Pandagi",
+   "HEALTH FACILITY": "Nanda",
+   "STAFF": 11,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Agyana Pandagi",
+   "HEALTH FACILITY": "Agyana PHC",
+   "STAFF": 12,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Agyana Pandagi",
+   "HEALTH FACILITY": "Pandagi PHC",
+   "STAFF": 8,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Alu Mamagi",
+   "HEALTH FACILITY": "Mawogi",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Alu Mamagi",
+   "HEALTH FACILITY": "Mamagi",
+   "STAFF": 8,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Central",
+   "HEALTH FACILITY": "Central PHC",
+   "STAFF": 11,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gawu",
+   "HEALTH FACILITY": "Dogoruwa",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gawu",
+   "HEALTH FACILITY": "Gasakpa",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gawu",
+   "HEALTH FACILITY": "Gigbe",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gawu",
+   "HEALTH FACILITY": "Gawu",
+   "STAFF": 14,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "12"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gurdi",
+   "HEALTH FACILITY": "Baribari",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gurdi",
+   "HEALTH FACILITY": "Gurdi",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Gurdi",
+   "HEALTH FACILITY": "Rafindaji",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "North East",
+   "HEALTH FACILITY": "MCH",
+   "STAFF": 11,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "North East",
+   "HEALTH FACILITY": "New Township",
+   "STAFF": 31,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "10"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "North East",
+   "HEALTH FACILITY": "Ayura Comp. PHC",
+   "STAFF": 23,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "15"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Nuku Sabongari",
+   "HEALTH FACILITY": "Abattoir PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Nuku Sabongari",
+   "HEALTH FACILITY": "Kekeshi",
+   "STAFF": 9,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Nuku Sabongari",
+   "HEALTH FACILITY": "Manderigi",
+   "STAFF": 9,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Nuku Sabongari",
+   "HEALTH FACILITY": "Lowcost",
+   "STAFF": 8,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Nuku Sabongari",
+   "HEALTH FACILITY": "Nuku PHC",
+   "STAFF": 8,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Rimba Ebagi",
+   "HEALTH FACILITY": "Rimba",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Rimba Ebagi",
+   "HEALTH FACILITY": "Naharati",
+   "STAFF": 10,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Rimba Ebagi",
+   "HEALTH FACILITY": "Ebagi",
+   "STAFF": 10,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "South East",
+   "HEALTH FACILITY": "Naharati PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Yaba",
+   "HEALTH FACILITY": "Adagba",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Yaba",
+   "HEALTH FACILITY": "Kpachi",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Abaji",
+   "WARD": "Yaba",
+   "HEALTH FACILITY": "Yaba PHC",
+   "STAFF": 10,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Garki",
+   "HEALTH FACILITY": "Damagaza PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Garki",
+   "HEALTH FACILITY": "Durumi PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Garki",
+   "HEALTH FACILITY": "Kobi health PHC",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Garki",
+   "HEALTH FACILITY": "Dutse Garki PHC / Dutsen Garki Primary Health clinic",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Garki",
+   "HEALTH FACILITY": "New Garki Apo PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Garki",
+   "HEALTH FACILITY": "Garki Village PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "11"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gui",
+   "HEALTH FACILITY": "Gui PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gui",
+   "HEALTH FACILITY": "Tunga Madaki PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gui",
+   "HEALTH FACILITY": "Tunga Nasara PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gui",
+   "HEALTH FACILITY": "Iddo pada PHC",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gui",
+   "HEALTH FACILITY": "Gosa PHC",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwagwa",
+   "HEALTH FACILITY": "Gwagwa PHC",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwagwa",
+   "HEALTH FACILITY": "Kagini PHC",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "12"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Gishiri PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Gwarimpa Village PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Jahi PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Mabushi PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Kuchingoro PHC / Kuchigoro PHC",
+   "STAFF": 10,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Piwoyi PHC",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Gwarimpa",
+   "HEALTH FACILITY": "Karon Majigi PHC / Karonmajigi PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "24"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Jiwa",
+   "HEALTH FACILITY": "Bassan Jiwa PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Jiwa",
+   "HEALTH FACILITY": "Jiwa PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Jiwa",
+   "HEALTH FACILITY": "Hulumi PHC",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Jiwa",
+   "HEALTH FACILITY": "Idu Karimo PHC",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Jiwa",
+   "HEALTH FACILITY": "Dakwa PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Burum PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Galadimawa PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Takushara PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Wassa PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Zhidu PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Ketti PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Waru PHC",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Aleyita PHC / Aleita PHC",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Dnako PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Pyakassa PHC",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Sherretti PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "12"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Kabusa PHC",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "18"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Kabusa",
+   "HEALTH FACILITY": "Lugbe PHC",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "28"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Karshi",
+   "HEALTH FACILITY": "Karshi PHC",
+   "STAFF": 5,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Karshi",
+   "HEALTH FACILITY": "Kuseki PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Karu",
+   "HEALTH FACILITY": "Jikwoyi PHC",
+   "STAFF": 8,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Karu",
+   "HEALTH FACILITY": "Karu PHC",
+   "STAFF": 9,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "12"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Nyanya",
+   "HEALTH FACILITY": "Gbagarape PHC / Gbagalape PHC",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "6"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Chori-Bisa PHC",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Gugugu PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Munape PHC",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Kpeyegyi PHC",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Kurudu PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Orozo PHC",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "AMAC",
+   "WARD": "Orozo",
+   "HEALTH FACILITY": "Gidan Mangoro CPHC / Gidanmangoro CPHC",
+   "STAFF": 9,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "14"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Bwari central",
+   "HEALTH FACILITY": "Kogo Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Bwari central",
+   "HEALTH FACILITY": "Yaupe Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Bwari central",
+   "HEALTH FACILITY": "Gaba Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Bwari Central",
+   "HEALTH FACILITY": "Barangoni PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "6"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Byazhin",
+   "HEALTH FACILITY": "Chikakore Primary Health Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Byazhin",
+   "HEALTH FACILITY": "Kugbobokun Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Byazhin",
+   "HEALTH FACILITY": "Zhiko Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Byazhin",
+   "HEALTH FACILITY": "Kuchibuyi Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Byazhin",
+   "HEALTH FACILITY": "Byazhin PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Jikoko Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Zhigakuchi Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Dawaki Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Mapa Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Dutse Baupma Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Dutse Alhaji PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "6"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Dutse Makaranta",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "9"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Dutse",
+   "HEALTH FACILITY": "Mpape PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "13"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Igu",
+   "HEALTH FACILITY": "Igu Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Igu",
+   "HEALTH FACILITY": "Panunuke Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Igu",
+   "HEALTH FACILITY": "Tokulo Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Igu",
+   "HEALTH FACILITY": "Kaima Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kawu",
+   "HEALTH FACILITY": "Kurmi Daudu Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kawu",
+   "HEALTH FACILITY": "Kute Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kawu",
+   "HEALTH FACILITY": "Pada Gwari Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kawu",
+   "HEALTH FACILITY": "Tunga Bijimi Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kawu",
+   "HEALTH FACILITY": "Kawu Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "kubwa",
+   "HEALTH FACILITY": "Dei Dei Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "kubwa",
+   "HEALTH FACILITY": "Old Dei Dei Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "kubwa",
+   "HEALTH FACILITY": "Dakwa Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kuduru",
+   "HEALTH FACILITY": "Kuduru Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kuduru",
+   "HEALTH FACILITY": "Sabon Gari Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kuduru",
+   "HEALTH FACILITY": "Kuchiko Primary Health Care  Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Kuduru",
+   "HEALTH FACILITY": "Bwari Town PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "10"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Durumi Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Nukuchi Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Piko Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Shere Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Sherepe Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Shishipe Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Galuwyi Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Gudupe Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Shere",
+   "HEALTH FACILITY": "Sumpe Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Ushafa",
+   "HEALTH FACILITY": "Lower Usman Dam Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Ushafa",
+   "HEALTH FACILITY": "Ushafa New Layout Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Ushafa",
+   "HEALTH FACILITY": "Jigo PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "6"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Bwari",
+   "WARD": "Ushafa",
+   "HEALTH FACILITY": "Ushafa PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Central",
+   "HEALTH FACILITY": "Ang. Dodo PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Central",
+   "HEALTH FACILITY": "Dagiri PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "9"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Dobi",
+   "HEALTH FACILITY": "Pabeyi PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Dobi",
+   "HEALTH FACILITY": "Tsauni PH",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Dobi",
+   "HEALTH FACILITY": "Wumi PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Dobi",
+   "HEALTH FACILITY": "KaidaSabo PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Dobi",
+   "HEALTH FACILITY": "Ledi 1 PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Dobi",
+   "HEALTH FACILITY": "Dobi PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Gwako",
+   "HEALTH FACILITY": "Gwako PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Gwako",
+   "HEALTH FACILITY": "Kpakuru PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Gwako",
+   "HEALTH FACILITY": "Giri PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ibwa",
+   "HEALTH FACILITY": "Dukwa PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ibwa",
+   "HEALTH FACILITY": "IbwaPada PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ibwa",
+   "HEALTH FACILITY": "RafinZurfi PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ibwa",
+   "HEALTH FACILITY": "Wuna PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ibwa",
+   "HEALTH FACILITY": "Ibwa 1 PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ibwa",
+   "HEALTH FACILITY": "Gurfata PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ikwa",
+   "HEALTH FACILITY": "Chitumu PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ikwa",
+   "HEALTH FACILITY": "Ikwa PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ikwa",
+   "HEALTH FACILITY": "Tungan Gaya  PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Ikwa",
+   "HEALTH FACILITY": "Yimi PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Kutunku",
+   "HEALTH FACILITY": "Gwagwalada  Township Clinic",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "15"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Kutunku",
+   "HEALTH FACILITY": "Phase 3 PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "NON FUNCTIONAL"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Paikon",
+   "HEALTH FACILITY": "KaidaTsoho  PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Paikon",
+   "HEALTH FACILITY": "Paikon PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Tunga Maje",
+   "HEALTH FACILITY": "ShaneguPHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Tunga Maje",
+   "HEALTH FACILITY": "Anagada PHC ",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Tunga Maje",
+   "HEALTH FACILITY": "Tungan Maje PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Gwagwalada       ",
+   "WARD": "Zuba",
+   "HEALTH FACILITY": "Zuba PHC",
+   "STAFF": null,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Chibiri ",
+   "HEALTH FACILITY": "Chibiri Primary Health Care Clinic",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Chibiri ",
+   "HEALTH FACILITY": "Lanto Primary Health Care Clinic",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Chibiri ",
+   "HEALTH FACILITY": "Kiyi Primary Health Care Centre",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Chibiri ",
+   "HEALTH FACILITY": "Chukuku Primary Health Care Centre",
+   "STAFF": 8,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Dafara Primary Health Care Centre",
+   "STAFF": 6,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Gbaupe Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Kasada Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Kusaki Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Kuyizhi Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Yanga Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Gidan Bawa Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Kahodahannu Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Gbaukuchi Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Pagi Primary Health Care Centre",
+   "STAFF": 4,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "7"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gaube ",
+   "HEALTH FACILITY": "Gaube Primary Health Care Centre",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "8"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gudunkarya ",
+   "HEALTH FACILITY": "Darka Primary Health Care Post",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gudunkarya ",
+   "HEALTH FACILITY": "Huni Primary Health Care Clinic",
+   "STAFF": 0,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gudunkarya ",
+   "HEALTH FACILITY": "Zagabutu Primary Health Care Centre",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gudunkarya ",
+   "HEALTH FACILITY": "Gova Primary Health Care Post",
+   "STAFF": 0,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gudunkarya ",
+   "HEALTH FACILITY": "Tashara Primary Health Care Clinic",
+   "STAFF": 0,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gudunkarya ",
+   "HEALTH FACILITY": "Gudunkarya Primary Health Care Centre",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gwargwada ",
+   "HEALTH FACILITY": "Gombe Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Gwargwada ",
+   "HEALTH FACILITY": "Gwargada Primary Health Care Centre",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Agwai Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Kabin Kassa Primary Health Care Centre",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Kabin Mangoro Primary Health Care Centre",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Kutada Primary Health Care Clinic",
+   "STAFF": 0,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Tude Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Achimbi Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kabi ",
+   "HEALTH FACILITY": "Duda Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kuje Central ",
+   "HEALTH FACILITY": "Tukpechi Primary Health Care Centre",
+   "STAFF": 3,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kuje Central ",
+   "HEALTH FACILITY": "Abuja @ 30 Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kuje Central ",
+   "HEALTH FACILITY": "Kuchiyako Primary HealthCare  Centre",
+   "STAFF": 7,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kuje Central ",
+   "HEALTH FACILITY": "Kuje Primary Health Care Centre",
+   "STAFF": 20,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "24"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kujekwa ",
+   "HEALTH FACILITY": "Bida Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kujekwa ",
+   "HEALTH FACILITY": "Kujekwa Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kujekwa ",
+   "HEALTH FACILITY": "Odu Primary Health Care Clinic",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kwaku ",
+   "HEALTH FACILITY": "Gadoro PHC Post",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kwaku ",
+   "HEALTH FACILITY": "Gawu Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kwaku ",
+   "HEALTH FACILITY": "Sabo Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Kwaku ",
+   "HEALTH FACILITY": "Kwaku Primary Health Care Centre",
+   "STAFF": 2,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "10"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Rubochi ",
+   "HEALTH FACILITY": "Kulo Primary Health Care Clinic",
+   "STAFF": 0,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Rubochi ",
+   "HEALTH FACILITY": "Totogabiya Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Rubochi ",
+   "HEALTH FACILITY": "Zokotu Primary Health Care Clinic",
+   "STAFF": 1,
+   "Type of Staff": " ",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Rubochi ",
+   "HEALTH FACILITY": "Rubochi Primary Health Care Centre",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kuje ",
+   "WARD": "Yanche ",
+   "HEALTH FACILITY": "Yanche Primary Health Care Centre",
+   "STAFF": 1,
+   "Type of Staff": "",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": null
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Ashara ",
+   "HEALTH FACILITY": "Ashara Basic Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHO 1, CHEW 2, JCHEW 1, M/R 1",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": 7
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Ashara ",
+   "HEALTH FACILITY": "Ike Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 1
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Ashara ",
+   "HEALTH FACILITY": "Kamadi Tsoho Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Ashara ",
+   "HEALTH FACILITY": "Fogbe Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, JCHEW 1",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Ashara ",
+   "HEALTH FACILITY": "Maikwari Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, JCHEW 1",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Dafa",
+   "HEALTH FACILITY": "Dafa Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, N/W 1, LAB SCI 2, M/R 1",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": 4
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Dafa",
+   "HEALTH FACILITY": "Tunga Guli Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1 VOLUNTEER",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 1
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Dafa",
+   "HEALTH FACILITY": "Fuka Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Dafa",
+   "HEALTH FACILITY": "Pangu Guli Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1 VOLUNTEER",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Gumbo ",
+   "HEALTH FACILITY": "Kwaita Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, RM 1",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": 4
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Gumbo ",
+   "HEALTH FACILITY": "Gumbo Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, JCHEW 1, SECURITY 1 VOLUNTEER",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 3
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Gumbo ",
+   "HEALTH FACILITY": "Piri Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, RM 1, RN 1, SECURITY 2 VOLUNTEER",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 8
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kilankwa",
+   "HEALTH FACILITY": "Sheda Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHO 1, CHEW 4, JCHEW 1, LAB TECH 1, RM 1, H/ATT 1",
+   "Average cases ": {
+      " mo": "6"
+   },
+   "Bed Spaces": 7
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kilankwa",
+   "HEALTH FACILITY": "Chukuku Tsoho Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kilankwa",
+   "HEALTH FACILITY": "Sheda Galadima Primary Health  Care Clinic ",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 1
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kilankwa",
+   "HEALTH FACILITY": "Petti Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 3, RM 1 VOLUNTEER",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kilankwa",
+   "HEALTH FACILITY": "Kilankwa2 Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": 5
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kilankwa",
+   "HEALTH FACILITY": "Kilankwa1 Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, JCHEW 1",
+   "Average cases ": {
+      " mo": "5"
+   },
+   "Bed Spaces": 4
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kundu ",
+   "HEALTH FACILITY": "Gomani Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, RM 1 VOLUNTEER",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 1
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kundu ",
+   "HEALTH FACILITY": "Kundu Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 4
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kundu ",
+   "HEALTH FACILITY": "Tungan Sarki Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 0
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kundu ",
+   "HEALTH FACILITY": "Damakusa Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, JCHEW 1 VOLUNTEER",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 1
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Kwali ",
+   "HEALTH FACILITY": "Kwali Prinary  Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "DOCTOR 1, CHO 1,CHEW 7, JCHEW 2, RM 3, LAB 3, M/R 2, PHARM 1, DENTAL TECH 1, NUTRI. 1",
+   "Average cases ": {
+      " mo": "15"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Pai ",
+   "HEALTH FACILITY": "Dabi Bako Primary  Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHO 2, RM 4, CHEW 3, JCHEW 4, LAB SCI 3, LAB TECH 1, H/EDU 1, M/R 1, PARM TECH - 1, H/ATT - 4 VOLUNTEER",
+   "Average cases ": {
+      " mo": "20"
+   },
+   "Bed Spaces": 19
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Pai ",
+   "HEALTH FACILITY": "Bako Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 5, JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 3
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Pai ",
+   "HEALTH FACILITY": "Leleyi Gwari Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Pai ",
+   "HEALTH FACILITY": "Pai Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": 10
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Dangara Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 0
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Dapa Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 0
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Ubosharu Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHO 1, CHEW 2, JCHEW 1 ",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Wako Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, RM 1 ",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 16
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Bukpe Health Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Chida Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 0
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Wako ",
+   "HEALTH FACILITY": "Yewuti Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, H/ATT 1",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 4
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yangoji ",
+   "HEALTH FACILITY": "Sukuku Primay Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yangoji ",
+   "HEALTH FACILITY": "Ijah Sarki Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHEW 2, JCHEW 2 H/ ATT 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 6
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yangoji ",
+   "HEALTH FACILITY": "Koroko Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHO 1, CHEW 1, JCHEW 2",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yangoji ",
+   "HEALTH FACILITY": "Yangoji Primary Health Care  Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHO 1, CHEW 4, LAB TECH 1, M/R 2",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 15
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yebu ",
+   "HEALTH FACILITY": "Kwaita Model Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "CHO 1, RN 2, LAB TECH 1, H/EDU 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 10
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yebu ",
+   "HEALTH FACILITY": "Leda Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "CHEW 1, JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yebu ",
+   "HEALTH FACILITY": "Yambabu Primary Health Care Centre",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "1"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yebu ",
+   "HEALTH FACILITY": "Kigbe Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "2"
+   },
+   "Bed Spaces": 3
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yebu ",
+   "HEALTH FACILITY": "Farakuti Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "3"
+   },
+   "Bed Spaces": 2
+},
+ {
+   "Council": "Kwali",
+   "WARD": "Yebu ",
+   "HEALTH FACILITY": "Yebu Primary Health Care Clinic",
+   "STAFF": null,
+   "Type of Staff": "JCHEW 1",
+   "Average cases ": {
+      " mo": "4"
+   },
+   "Bed Spaces": 3
+}
+]
